@@ -1,2 +1,5 @@
-# 141AFinalProject
-Final Project for 141A class, Fall 2107
+# Metro Bike Share Program in SF and LA: Impact Analysis
+
+## Author: Alexey Silin
+
+### Overview
