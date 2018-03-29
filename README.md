@@ -7,8 +7,8 @@
 ### Results 
 
 #### Downtown LA stations
-![Alt text](https://github.com/asilin17/Metro-Bike-Share/blob/master/Mapped%20Stations/DTLA_Stations.pdf?raw=true "Downtown LA Stations")
+![alt text](https://github.com/asilin17/Metro-Bike-Share/blob/master/Mapped%20Stations/DTLA_Stations.pdf?raw=true)
 
 #### Downtown SF stations
 
-![Alt text](https://github.com/asilin17/Metro-Bike-Share/blob/master/Mapped%20Stations/SF_Stations.pdf?raw=true "Downtown SF Stations)
+![alt text](https://github.com/asilin17/Metro-Bike-Share/blob/master/Mapped%20Stations/SF_Stations.pdf)
